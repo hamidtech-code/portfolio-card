@@ -93,14 +93,21 @@ button:hover {
 }
 @media(max-width:600px){
    .profil-card{
-      width:400px;
-      height:940px;
+      width:300px;
+      height:1030px;
       margin:10px;
       
    }
    .box{
-      width:400px;
+      width:300px;
       margin-left: -1px;
 
+   }
+   .img{
+       width:2cm;
+   height: 2cm;
+   }
+   h1{
+      font-size:30px;
    }
 }
